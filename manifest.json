@@ -1,0 +1,9 @@
+{
+    "name": "SyncLib",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "REPO 联机同步通用库。封装 RPC、RaiseEvent、房间属性、快照补发和动态配置同步，为模组开发提供开箱即用的网络层。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
